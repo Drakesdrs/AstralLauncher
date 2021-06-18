@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Astral_Launcher" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AfterLaunch" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Hide</Value>
+    </Setting>
+    <Setting Name="Animations" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Process" Type="System.Diagnostics.Process" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Priority" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Normal</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Resolution" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1280x720</Value>
+    </Setting>
+    <Setting Name="Version" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.16.200</Value>
+    </Setting>
+    <Setting Name="UserId" Type="System.UInt64" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
